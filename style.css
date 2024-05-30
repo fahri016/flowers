@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  background-image:url(img/sakura2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+h1,h2 {
+  color: #fff;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: 1rem;
+  margin: 10px;
+}
